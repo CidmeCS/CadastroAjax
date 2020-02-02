@@ -116,7 +116,7 @@
             this.mtbCNPJ.Margin = new System.Windows.Forms.Padding(4);
             this.mtbCNPJ.Mask = "999.999.999/9999-99";
             this.mtbCNPJ.Name = "mtbCNPJ";
-            this.mtbCNPJ.Size = new System.Drawing.Size(133, 22);
+            this.mtbCNPJ.Size = new System.Drawing.Size(159, 22);
             this.mtbCNPJ.TabIndex = 30;
             // 
             // dgvEmpresa
