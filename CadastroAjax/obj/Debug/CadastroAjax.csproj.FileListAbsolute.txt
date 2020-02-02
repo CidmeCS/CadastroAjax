@@ -1,0 +1,15 @@
+C:\Users\Cid\Documents\Projetos\CadastroAjax\CadastroAjax\bin\Debug\CadastroAjax.exe.config
+C:\Users\Cid\Documents\Projetos\CadastroAjax\CadastroAjax\bin\Debug\CadastroAjax.exe
+C:\Users\Cid\Documents\Projetos\CadastroAjax\CadastroAjax\bin\Debug\CadastroAjax.pdb
+C:\Users\Cid\Documents\Projetos\CadastroAjax\CadastroAjax\obj\Debug\CadastroAjax.csprojAssemblyReference.cache
+C:\Users\Cid\Documents\Projetos\CadastroAjax\CadastroAjax\obj\Debug\CadastroAjax.Form1.resources
+C:\Users\Cid\Documents\Projetos\CadastroAjax\CadastroAjax\obj\Debug\CadastroAjax.Properties.Resources.resources
+C:\Users\Cid\Documents\Projetos\CadastroAjax\CadastroAjax\obj\Debug\CadastroAjax.csproj.GenerateResource.cache
+C:\Users\Cid\Documents\Projetos\CadastroAjax\CadastroAjax\obj\Debug\CadastroAjax.csproj.CoreCompileInputs.cache
+C:\Users\Cid\Documents\Projetos\CadastroAjax\CadastroAjax\obj\Debug\CadastroAjax.exe
+C:\Users\Cid\Documents\Projetos\CadastroAjax\CadastroAjax\obj\Debug\CadastroAjax.pdb
+C:\Users\Cid\Documents\Projetos\CadastroAjax\CadastroAjax\obj\Debug\CadastroAjax.csproj.CopyComplete
+C:\Users\Cid\Documents\Projetos\CadastroAjax\CadastroAjax\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cid\Documents\Projetos\CadastroAjax\CadastroAjax\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cid\Documents\Projetos\CadastroAjax\CadastroAjax\bin\Debug\System.Data.OleDb.dll
+C:\Users\Cid\Documents\Projetos\CadastroAjax\CadastroAjax\bin\Debug\System.Data.OleDb.xml
