@@ -17,7 +17,8 @@ namespace CadastroAjax.DAO
 
             try
             {
-                using (OleDbCommand comm = new OleDbCommand("Insert Into tblFornecedor (Empresa, Nome, RG, DataNascimento, DataHora, Telefone) " +
+                using (OleDbCommand comm = new OleDbCommand("Insert Into tblFornecedor " +
+                    "       (Empresa,  Nome,  RG,  DataNascimento,  DataHora,  Telefone) " +
                     "values(@Empresa, @Nome, @RG, @DataNascimento, @DataHora, @Telefone)", con))
                 {
                     comm.Parameters.Add("@Empresa", OleDbType.VarChar).Value = empresa;
